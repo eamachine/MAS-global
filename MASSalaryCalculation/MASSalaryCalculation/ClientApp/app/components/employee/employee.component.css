@@ -1,0 +1,20 @@
+﻿.employeeList {
+    margin-top: 40px;
+}
+
+.employeeFilter {
+    margin-top: 20px;
+}
+
+.button {
+    background-color: #222;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    height: 35px;
+    width: 100px;
+}
+
+.input {
+    height:35px;
+}

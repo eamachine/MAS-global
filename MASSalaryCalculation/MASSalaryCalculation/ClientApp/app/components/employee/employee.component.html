@@ -1,0 +1,35 @@
+<h1>Employees</h1>
+
+<p>List of the Employees with Anual Salary </p>
+
+<div class="employeeFilter">
+    <label>
+        Employee Id:
+        <input class="input" type="text" name="EmployeeId" [(ngModel)]="EmployeeId">
+    </label>
+
+    <button class="button" (click)="fetch()">Search</button>
+</div>
+
+<div class="employeeList">
+    <p *ngIf="Employees.length == 0"><em>No Employees</em></p>
+    <table class='table' *ngIf="Employees && Employees.length > 0">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Contract Type</th>
+                <th>Annual Salary</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let employee of Employees">
+                <td>{{ employee.id }}</td>
+                <td>{{ employee.name }}</td>
+                <td>{{ employee.contractTypeName }}</td>
+                <td>{{ employee.anualSalary | currency : 'COP' }}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
