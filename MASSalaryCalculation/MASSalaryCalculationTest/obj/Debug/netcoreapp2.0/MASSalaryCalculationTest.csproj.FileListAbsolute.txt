@@ -1,0 +1,17 @@
+C:\Users\eamac\OneDrive\Documentos\Tests\MAS-global\MASSalaryCalculation\MASSalaryCalculationTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\eamac\OneDrive\Documentos\Tests\MAS-global\MASSalaryCalculation\MASSalaryCalculationTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\eamac\OneDrive\Documentos\Tests\MAS-global\MASSalaryCalculation\MASSalaryCalculationTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\eamac\OneDrive\Documentos\Tests\MAS-global\MASSalaryCalculation\MASSalaryCalculationTest\bin\Debug\netcoreapp2.0\MASSalaryCalculationTest.deps.json
+C:\Users\eamac\OneDrive\Documentos\Tests\MAS-global\MASSalaryCalculation\MASSalaryCalculationTest\bin\Debug\netcoreapp2.0\MASSalaryCalculationTest.runtimeconfig.json
+C:\Users\eamac\OneDrive\Documentos\Tests\MAS-global\MASSalaryCalculation\MASSalaryCalculationTest\bin\Debug\netcoreapp2.0\MASSalaryCalculationTest.runtimeconfig.dev.json
+C:\Users\eamac\OneDrive\Documentos\Tests\MAS-global\MASSalaryCalculation\MASSalaryCalculationTest\bin\Debug\netcoreapp2.0\MASSalaryCalculationTest.dll
+C:\Users\eamac\OneDrive\Documentos\Tests\MAS-global\MASSalaryCalculation\MASSalaryCalculationTest\bin\Debug\netcoreapp2.0\MASSalaryCalculationTest.pdb
+C:\Users\eamac\OneDrive\Documentos\Tests\MAS-global\MASSalaryCalculation\MASSalaryCalculationTest\bin\Debug\netcoreapp2.0\MASSalaryCalculation.dll
+C:\Users\eamac\OneDrive\Documentos\Tests\MAS-global\MASSalaryCalculation\MASSalaryCalculationTest\bin\Debug\netcoreapp2.0\MASSalaryCalculation.pdb
+C:\Users\eamac\OneDrive\Documentos\Tests\MAS-global\MASSalaryCalculation\MASSalaryCalculationTest\obj\Debug\netcoreapp2.0\MASSalaryCalculationTest.csprojResolveAssemblyReference.cache
+C:\Users\eamac\OneDrive\Documentos\Tests\MAS-global\MASSalaryCalculation\MASSalaryCalculationTest\obj\Debug\netcoreapp2.0\MASSalaryCalculationTest.csproj.CoreCompileInputs.cache
+C:\Users\eamac\OneDrive\Documentos\Tests\MAS-global\MASSalaryCalculation\MASSalaryCalculationTest\obj\Debug\netcoreapp2.0\MASSalaryCalculationTest.AssemblyInfoInputs.cache
+C:\Users\eamac\OneDrive\Documentos\Tests\MAS-global\MASSalaryCalculation\MASSalaryCalculationTest\obj\Debug\netcoreapp2.0\MASSalaryCalculationTest.AssemblyInfo.cs
+C:\Users\eamac\OneDrive\Documentos\Tests\MAS-global\MASSalaryCalculation\MASSalaryCalculationTest\obj\Debug\netcoreapp2.0\MASSalaryCalculationTest.csproj.CopyComplete
+C:\Users\eamac\OneDrive\Documentos\Tests\MAS-global\MASSalaryCalculation\MASSalaryCalculationTest\obj\Debug\netcoreapp2.0\MASSalaryCalculationTest.dll
+C:\Users\eamac\OneDrive\Documentos\Tests\MAS-global\MASSalaryCalculation\MASSalaryCalculationTest\obj\Debug\netcoreapp2.0\MASSalaryCalculationTest.pdb
